@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說聖大總持王經
+#+DATE: 2015-08-30 20:36:04.392894
+#+PROPERTY: JUAN 0
