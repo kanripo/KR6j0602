@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:04.609245
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:36
 #+TITLE: 佛說聖大總持王經
 #+PROPERTY: CBETA_ID T21n1371
 #+PROPERTY: ID KR6j0602
