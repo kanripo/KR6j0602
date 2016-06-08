@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:04.158298
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:36
 #+TITLE: 佛說聖大總持王經
 #+PROPERTY: CBETA_ID T21n1371
 #+PROPERTY: ID KR6j0602
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1371
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0602_T_001-0888b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1371¶
-
- 佛說聖大總持王經¶
+No. 1371¶
+佛說聖大總持王經¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 傳法大師臣施護奉　詔譯¶
